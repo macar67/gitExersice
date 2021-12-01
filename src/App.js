@@ -14,6 +14,8 @@ function App() {
           son
           ---------
           rebase
+          ------
+          rebase2
         </p>
         <a
           className="App-link"
